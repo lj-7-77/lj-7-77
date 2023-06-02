@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+// ![lj-7-77's GitHub stats](https://github-readme-stats.vercel.app/api?username=lj-7-77&show_icons=true&theme=highcontrast) 
+
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swtw72)](https://solved.ac/swtw72)
